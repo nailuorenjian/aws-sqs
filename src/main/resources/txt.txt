@@ -1,0 +1,4 @@
+启动Springboot项目。
+访问send地址：
+http://localhost:8080/aws/sqs/send/?message=%7Bname:%22guoxiuzhi%22,from:%22java%20code%22%7D,
+URL中参数message的值为json串{name:"guoxiuzhi",from:"java code"}
